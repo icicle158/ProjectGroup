@@ -1,0 +1,31 @@
++alpha 5
++bravo 5
++charlie 7
++delta 5
++echo 4
++foxtrot 7
++golf 4
++hotel 5
++india 5
++juliet 6
++kilo 4
++lima 4
++mike 4
+-alpha
++alfa 4
++november 8
++oscar 5
++x-ray 4
++papa 4
++quebec 6
++romeo 5
++sierra 6
++tango 5
++uniform 7
+-juliet
++juliett 7
++victor 6
++whiskey 7
++x-ray 5
++yankee 6
++zulu 4
